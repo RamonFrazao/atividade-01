@@ -6,7 +6,7 @@ class Control (Tv.Tv):
     def __init__ (self, brand, size):
         super ().__init__ (brand, size)
         self.__connect = False
-        self.__channel = int(1)
+        self.__channel = 1
         self.__sound = 50
 
     def get_connect(self):
