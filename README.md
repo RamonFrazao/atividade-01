@@ -5,7 +5,7 @@
     - A Tv deve ser utilizada por um controle.
 
 ## Regras de Funcionalidade
-Ao utilizar o codigo, para a funcionalidade deve-se:
+Para utilizar o codigo, deve-se:
 1. Criar o objeto Tv com marca e tamanho
 2. Ligar a Tv
 
